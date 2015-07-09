@@ -1,0 +1,10 @@
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\TrainingSchedule\bin\Debug\TrainingSchedule.dll
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\TrainingSchedule\bin\Debug\TrainingSchedule.pdb
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.dll
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.pdb
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.csprojResolveAssemblyReference.cache
+D:\Jose Carlos\mis proyectos\TrainingSchedule\source\TrainingSchedule\bin\Debug\TrainingSchedule.dll
+D:\Jose Carlos\mis proyectos\TrainingSchedule\source\TrainingSchedule\bin\Debug\TrainingSchedule.pdb
+D:\Jose Carlos\mis proyectos\TrainingSchedule\source\TrainingSchedule\obj\Debug\TrainingSchedule.csprojResolveAssemblyReference.cache
+D:\Jose Carlos\mis proyectos\TrainingSchedule\source\TrainingSchedule\obj\Debug\TrainingSchedule.dll
+D:\Jose Carlos\mis proyectos\TrainingSchedule\source\TrainingSchedule\obj\Debug\TrainingSchedule.pdb

@@ -1,0 +1,13 @@
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\bin\Debug\Test.exe
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\bin\Debug\Test.pdb
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\bin\Debug\TrainingSchedule.dll
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\bin\Debug\TrainingSchedule.pdb
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\obj\x86\Debug\Test.exe
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\obj\x86\Debug\Test.pdb
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\jose carlos\Documents\informática\mis proyectos\TrainingSchedule\Test\obj\x86\Debug\Test.Form2.resources
+D:\Jose Carlos\mis proyectos\TrainingSchedule\source\Test\obj\x86\Debug\Test.exe
+D:\Jose Carlos\mis proyectos\TrainingSchedule\source\Test\obj\x86\Debug\Test.pdb
