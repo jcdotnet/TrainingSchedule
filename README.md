@@ -1,8 +1,8 @@
 # TRAINING SCHEDULE CLASS LIBRARY (Legacy | 2012-2014)
 
 > [!NOTE]
-> **Historical Archive:** This library was developed  as part of my Final Degree Project (PFC). 
-> It was developed using **Visual Studio 2010** and reflects my technical foundations during that period.
+> Developed as part of my Final Degree Project (PFC). 
+> Built with **Visual Studio 2010** and reflects my technical foundations during that period.
 
 ---
 
