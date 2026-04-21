@@ -1,10 +1,16 @@
-# TRAINING SCHEDULE CLASS LIBRARY
+# TRAINING SCHEDULE CLASS LIBRARY (Legacy | 2012-2014)
+
+> [!NOTE]
+> **Historical Archive:** This library was developed  as part of my Final Degree Project (PFC). 
+> It was developed using **Visual Studio 2010** and reflects my technical foundations during that period.
+
+---
 
 This .NET framework class library provides some components in order to represent graphically training seasons, cycles and sessions in your sports training application. You only have to reference the library and drag the component you need.
 
 I highly recommend that you take a look at the “Test” project in order to learn how the components use your training items and the way they work. 
 
-The user interface is displayed in English unless your operating system’s language is Spanish from Spain. You can check or set your language in “Control Panel” -> “Region and language”. 
+The user interface is displayed in English unless your operating system's language is Spanish from Spain. You can check or set your language in "Control Panel" -> "Region and language". 
 
 The library contains a calendar which allow to insert, edit or delete training seasons, cycles and sessions. We use the TrainingItem class to create them.
 
@@ -18,6 +24,6 @@ SeasonMinDuration, MacrocycleMinDuration, MesocycleMinDuration, MicrocycleMinDur
 
 The library also contains a Gantt chart, which shows all the cycles belonging to the running season.
 
-For more information about properties and events, I suggest you again to take a look at the “Test” project which is included in the solution.
+For more information about properties and events, I suggest you again to take a look at the "Test" project which is included in the solution.
 
 Hope this library can be useful for you!
