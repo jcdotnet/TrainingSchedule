@@ -1,0 +1,27 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bin/
+obj/
+
+# Visual Studio 2010
+*.vshost.exe
+*.vshost.exe.manifest
+*.vshost.exe.config
+
+# Visual Studio 2015+
+.vs/
+
+# Others
+*.cache
+*.FileListAbsolute.txt
