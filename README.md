@@ -1,10 +1,10 @@
-# TRAINING SCHEDULE CLASS LIBRARY (Legacy | 2012-2014)
+# TRAINING SCHEDULE CLASS LIBRARY
 
-> [!NOTE]
-> Developed as part of my Final Degree Project (PFC).  
-> Built with **Visual Studio 2010** and reflects my technical foundations during that period.
+> Legacy project (2014).  
+> Class library developed as part of my Final Degree Project (PFC).  
+> Built with Visual Studio 2010.  
 
----
+## Library Overview
 
 This .NET framework class library provides some components in order to represent graphically training seasons, cycles and sessions in your sports training application. You only have to reference the library and drag the component you need.
 
